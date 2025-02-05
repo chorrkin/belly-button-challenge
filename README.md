@@ -11,8 +11,8 @@ This project is an interactive dashboard that visualizes the **Belly Button Biod
 - **Deployed on GitHub Pages**  
 
 
-## Deployment  
-🔗 **Live App:** [Insert GitHub Pages Link Here]  
+## Deployment
+🔗 **Live App:** [https://chorrkin.github.io/belly-button-challenge](https://chorrkin.github.io/belly-button-challenge)
 📂 **GitHub Repo:** [Insert Repo Link Here]  
 
 ## Acknowledgments  
