@@ -1,3 +1,5 @@
+console.log("app.js loaded!");
+
 // Global variable to store data fetched from samples.json
 let allData;
 
